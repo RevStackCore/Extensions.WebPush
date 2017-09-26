@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
     <PackageId>RevStackCore.Extensions.WebPush</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>S. Francis</Authors>
-    <Description>Vpaid Push notification </Description>
+    <Description>Vapid Push notification client</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Net Standard 1.6 release</PackageReleaseNotes>
     <Copyright>Copyright 2017</Copyright>
